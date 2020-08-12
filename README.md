@@ -2,6 +2,7 @@
 
 - I’m currently working on [Speedtest-core]
 - I’m currently learning React-Native
+- Also figuring out loads of new stuff about GCP 
 
 ```sh
 TODO:Add more sensible content here.
