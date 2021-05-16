@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 - I’m currently working on [Speedtest-core] and personal projects
-- I’m currently learning React-Native
-- Also figuring out loads of new stuff about GCP 
+- I’m also building Web Components for a React-Native project
+- Also figuring out loads of new stuff on GCP using firebase 
 
 ```sh
-TODO:Add more sensible content here.
 ```
 
 
